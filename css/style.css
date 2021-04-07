@@ -1,0 +1,349 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+.header {
+    max-width: 1168px;
+    display: flex;
+    margin: 0 56px;
+    justify-content: space-between;
+    position: absolute;
+    width: 100%;
+    padding-top: 40px;
+}
+.menu-item {
+    margin-right: 40px;
+}
+.btn {
+    color: #156963;
+    padding: 8px 20px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+}
+.btn-1 {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 9px 32px;
+    background-color: #156963;
+}
+.second {
+position: relative;
+    margin-bottom: 145px;
+}
+.title-bg {
+    display: flex;
+}
+.title {
+
+}
+.title-1 {
+    font-weight: 500;
+    font-size: 68px;
+    line-height: 83px;
+    padding-top: 186px;
+    color: #156963;
+    padding-left: 163px;
+    margin: 0;
+}
+.desk{
+    color: #2C1500;
+    opacity: 0.8;
+    font-size: 18px;
+    line-height: 32px;
+    max-width: 493px;
+    margin-top: 24px;
+    padding-left: 163px;
+}
+.buttons {
+    display: flex;
+    margin-top: 108px;
+    justify-content: flex-end;
+}
+.title {
+    width: 100%;
+}
+.bottom1 {
+    padding: 37px 50px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 39px;
+    color: #156963;
+
+}
+.deskr {
+    display: flex;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #2C1500;
+}
+.bottom2 {
+
+    padding: 39px 49px;
+    background-color: #156963;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+
+}
+.deskr1 {
+color: #FFFFFF;
+    opacity: 0.5;
+    display: flex;
+    box-sizing: border-box;
+}
+.cont {
+    max-width: 1168px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.card-title {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #156963;
+    display: flex;
+    margin-bottom: 16px;
+    margin-top: 22px;
+    margin-left: 16px;
+
+}
+.card {
+    box-sizing: border-box;
+    width: 268px;
+    height: 155px;
+    border: 1px solid #E0E0E0;
+}
+.img-1 {
+    padding-right: 16px;
+}
+.card-desk {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 16px;
+    color: #2C1500;
+    max-width: 236px;
+    margin-left: 16px;
+}
+.cards {
+    margin-bottom: 77px;
+}
+.cont_2 {
+    max-width: 1168px;
+    margin: 0 auto;
+}
+.main-title {
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+.select {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 15px;
+    border: solid 1px #E0E0E0;
+}
+option {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 15px;
+}
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #E0E0E0;
+    margin-bottom: 24px;
+}
+.card_2 {
+    display: flex;
+    justify-content: space-between;
+}
+.cards_2 {
+    text-align: center;
+}
+.cards-desk {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+.cards-prise {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
+.cards-2 {
+    margin-bottom: 80px;
+}
+.buy-title {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 56px;
+    color: #2C1500;
+    max-width: 522px;
+    margin-bottom: 16px;
+}
+.buy-desc {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #2C1500;
+    max-width: 506px;
+    margin-bottom: 57px;
+}
+.buy-section {
+    display: flex;
+    justify-content: space-between;
+}
+.buy {
+    margin-bottom: 80px;
+}
+.cont_3 {
+    max-width: 1168px;
+    min-height: 360px;
+    margin: 0 auto;
+    background-color: #F3F4F6;
+}
+.plants-title {
+    max-width: 585px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 56px;
+    color: #2C1500;
+    margin-bottom: 40px;
+    margin-left: 63px;
+    margin-top: 88px;
+}
+.pants-btn {
+    padding: 10px 42px ;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FAFEFE;
+    background-color: #156963;
+    margin-left: 97px;
+}
+.favorite {
+    display: flex;
+    justify-content: space-between;
+}
+.fw_plants {
+}
+hr {
+    margin-top: 80px;
+    color: #E0E0E0;
+    margin-bottom: 60px;
+}
+.wrapper {
+    max-width: 946px;
+    margin: 0 auto;
+}
+.footer-desc {
+    max-width: 282px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 20px;
+    color: #4F4F4F;
+}
+.footer-title {
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #333333;
+    margin-top: 24px;
+    margin-bottom: 10px;
+}
+.list-item {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 20px;
+    color: #000000;
+
+
+}
+.List-desk {
+
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 14px;
+    color: #000000;
+
+}
+.footer_menu {
+    display: flex;
+    justify-content: space-between;
+}
+.footer-logo {
+    display: flex;
+    flex-direction: column;
+}
+.list {
+    display: flex;
+    flex-direction: column;
+}
+.form-title {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    color: #000000;
+}
+.form-btn {
+    padding: 4px 12px;
+    background-color: #156963;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8px;
+    line-height: 14px;
+    color: #FFFFFF;
+}
+.form-1 {
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
