@@ -1,7 +1,7 @@
-const btns = documents.querySelectorAll(
-    ".counter__btn");
+const btns = documents.querySelectorAll
+(  ".counter__btn");
 
-btns.forEach(btn=>{
+btns.forEach(btn=> {
     btn.addEventListener("click",function (){
         const direction = this.dataset.direction;
         const inp = this.parentElement
