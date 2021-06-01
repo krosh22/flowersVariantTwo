@@ -12,7 +12,9 @@ btns.forEach(btn=>{
         if(direction === "plus") {
             newValue = currentValue + 1;
         } else {
-            inp.value = newValue;
+            newValue = newValue - 1 > 0 ?
+                currentValue - 1 : 0;
         }
+        inp.value = newValue;
     })
 })
