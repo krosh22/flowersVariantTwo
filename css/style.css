@@ -347,3 +347,14 @@ hr {
     margin-top: 14px;
     margin-bottom: 14px;
 }
+
+.counter__btn {
+    border-radius: 6px;
+    font-size: 15px;
+    background-color: #156963;
+    color: white;
+    border-color: #156963;
+}
+.counter__value {
+    text-align: center;
+}
